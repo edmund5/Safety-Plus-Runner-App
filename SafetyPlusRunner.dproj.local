@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/10/27 18:48:47.000.230,=C:\Users\E5\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/10/27 18:49:20.000.500,C:\Users\E5\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Edmund's Projects\Then After\Mobile\MainUnit.pas</Transaction>
+    <Transaction>2014/10/27 18:49:20.000.500,C:\Users\E5\Documents\Embarcadero\Studio\Projects\Unit1.fmx=E:\Edmund's Projects\Then After\Mobile\MainUnit.fmx</Transaction>
+    <Transaction>2014/10/27 18:49:37.000.737,C:\Users\E5\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Edmund's Projects\Then After\Mobile\Safe+ Runner_DXE6\SafePlusRunner.dproj</Transaction>
+    <Transaction>2014/11/12 13:20:11.000.789,=E:\Edmund's Projects\Then After\Mobile\Safe+ Runner_DXE6\SRC C2C Ultramarathon 2014\Unit1.pas</Transaction>
+    <Transaction>2014/11/12 13:20:39.000.956,E:\Edmund's Projects\Then After\Mobile\Safe+ Runner_DXE6\SRC C2C Ultramarathon 2014\Unit1.pas=E:\Edmund's Projects\Then After\Mobile\Safe+ Runner_DXE6\SRC C2C Ultramarathon 2014\Androidapi.JNI.Toast.pas</Transaction>
+    <Transaction>2014/11/12 19:29:49.000.548,=E:\Edmund's Projects\Then After\Mobile\Safe+ Runner_DXE6\SRC C2C Ultramarathon 2014\Unit2.pas</Transaction>
+    <Transaction>2014/11/12 19:34:21.000.051,E:\Edmund's Projects\Then After\Mobile\Safe+ Runner_DXE6\SRC C2C Ultramarathon 2014\Unit2.pas=E:\Edmund's Projects\Then After\Mobile\Safe+ Runner_DXE6\SRC C2C Ultramarathon 2014\Loading.pas</Transaction>
+    <Transaction>2014/11/12 19:34:21.000.051,E:\Edmund's Projects\Then After\Mobile\Safe+ Runner_DXE6\SRC C2C Ultramarathon 2014\Unit2.fmx=E:\Edmund's Projects\Then After\Mobile\Safe+ Runner_DXE6\SRC C2C Ultramarathon 2014\Loading.fmx</Transaction>
+    <Transaction>2014/11/13 16:07:54.000.236,E:\Edmund's Projects\Then After\Mobile\Safe+ Runner_DXE6\SRC C2C Ultramarathon 2014\Loading.pas=</Transaction>
+    <Transaction>2014/11/14 13:10:23.000.514,E:\Edmund's Projects\Then After\Mobile\Safety Plus Runner_DXE6\SRC C2C Ultramarathon 2014\SafetyPlusRunner.dproj=E:\Edmund's Projects\Then After\Mobile\Safety Plus Runner_DXE6\SRC C2C Ultramarathon 2014\SafePlusRunner.dproj</Transaction>
+  </Transactions>
+	<BT_BuildType>AppStore</BT_BuildType>
+	<ActiveMobileDevice>
+		<Pedmund5 iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

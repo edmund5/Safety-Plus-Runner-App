@@ -1,0 +1,36 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 567
+  ClientWidth = 360
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMobile = True
+  DesignerWidth = 360
+  DesignerHeight = 592
+  DesignerDeviceName = 'Google Nexus 5'
+  DesignerOrientation = 0
+  DesignerOSVersion = ''
+  object Panel1: TPanel
+    Align = Client
+    Height = 567.000000000000000000
+    Width = 360.000000000000000000
+    TabOrder = 1
+    object Rectangle1: TRectangle
+      Align = Center
+      Height = 121.000000000000000000
+      Opacity = 0.500000000000000000
+      Stroke.Kind = None
+      XRadius = 25.000000000000000000
+      YRadius = 25.000000000000000000
+      Width = 133.000000000000000000
+      object AniIndicator1: TAniIndicator
+        Align = Client
+        Height = 121.000000000000000000
+        Width = 133.000000000000000000
+      end
+    end
+  end
+end
