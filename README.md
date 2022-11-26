@@ -12,7 +12,3 @@ Safety Plus Runner is a professional GPS Tracking solution that allows race orga
 
 ### Where can I download the app?
 The app is no longer available for download since 2015 💀
-
-### Programming language used in this project:
-
-- Delphi XE6 / Pascal
